@@ -1,4 +1,3 @@
-Code:
 # Expt 2.1.6 Applications of Tuples
 # Application: Storing and processing student records using tuples
 # Each student record is a tuple: (roll_no, name, marks)
