@@ -1,6 +1,5 @@
 # Exp 1.1
 import math
-
 daivik_x = float(input('Enter the first number: '))
 daivik_y = float(input('Enter the second number: '))
 
@@ -39,13 +38,14 @@ elif daivik_opp == '**':
 else:
     print('Error: Invalid operation')
 
-# Extra calculations
+# Extra calculations 1
 daivik_red = (24 * 6**2) / (7 - 2)
 print("Result 1:", daivik_red)
 
+# Extra calculations 2
 daivik_edf = 23 / (934 * (3 + 4**3))
 print("Result 2:", daivik_edf)
 
-import math
+# Extra calculations 3
 x_daivik = math.sqrt(23) ** 3
 print("Extra sqrt power:", x_daivik)
