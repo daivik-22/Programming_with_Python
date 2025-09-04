@@ -1,6 +1,6 @@
 import sys, os
 os.getcwd()
-#os.chdir(r"D:\2025-2026\ODD\Python Programming\Notes\Codes")
+os.chdir(r"D:\2025-2026\ODD\Python Programming\Notes\Codes")
 os.getcwd()
 
 file = open('spam.txt,'w')
