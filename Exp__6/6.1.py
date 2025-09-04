@@ -1,11 +1,10 @@
 import sys, os
 os.getcwd()
-os.chdir(r"D:\2025-2026\ODD\Python Programming\Notes\Codes")
+os.chdir(r"D:\2025-2026\ODD\Python Programming\Notes\Codes") # path 
 os.getcwd()
-
-file = open('spam.txt,'w')
-file.write(('spam'*5+'\n')
+file = open('daivik.txt','w')
+file.write(('daivik'*5+,'\n')
 file.close()
-file.open('spam.txt')
+file = open('daivik.txt')
 text = file.read()
 text
